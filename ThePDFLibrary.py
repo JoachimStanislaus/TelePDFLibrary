@@ -199,7 +199,7 @@ def notes_command1(update: Update, context: CallbackContext) -> None:
 def main() -> None:
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
-    updater = Updater("2104101224:AAFypLDONYfDBYSGIddYSpuL7nwJQ-CLmdQ")
+    updater = Updater("bot token")
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
