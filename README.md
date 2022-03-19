@@ -1,2 +1,2 @@
-# TelePDFLibrary
-Telegram bot to upload and download Ebooks in PDF / Epub format
+# ThePDFLibrary_bot
+A Telegram Bot to retrieve PDF of Books and Remember the page you last stopped at.
