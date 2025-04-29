@@ -2,8 +2,7 @@ import logging
 import json
 from os import name
 from telegram import Update, ForceReply
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, ConversationHandler, conversationhandler
-from telegram.files.document import Document
+from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, ConversationHandler
 
 BookDict = {}
 UserList = {}
