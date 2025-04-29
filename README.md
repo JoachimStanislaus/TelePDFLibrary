@@ -61,3 +61,10 @@ source venv/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
+
+### Run program
+```sh
+python3 ThePDFLibrary.py 
+or
+python ThePDFLibrary.py
+```
